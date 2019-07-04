@@ -3,3 +3,5 @@ Estadual
 PUC Minas
 IFMG
 INPA
+CECON
+
